@@ -1,0 +1,16 @@
+body{
+    text-align: left;
+    background-color: black;
+    padding: 0% 40%;
+    color: blanchedalmond;
+}
+form{
+    border: blue 3px;
+}
+h2{
+    text-align: center;
+    color: coral;
+}
+#bottom{
+    background-color: rgb(114, 216, 114);
+}
